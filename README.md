@@ -24,7 +24,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/rust-todo-cli.git
+git clone https://github.com/navigatorsvs1232009/simple_rust_todo.git
 cd rust-todo-cli
 ```
 
